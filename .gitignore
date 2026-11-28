@@ -1,0 +1,4 @@
+*.exe
+*.o
+cafeteria
+.vscode/settings.json
